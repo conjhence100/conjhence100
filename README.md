@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason @conjhence100
 - 👀 I’m interested in microcontroller 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me
 - vangurd027@protonmail.com
